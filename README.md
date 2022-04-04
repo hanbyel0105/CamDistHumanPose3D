@@ -8,10 +8,6 @@ Make sure you have the following dependencies installed before proceeding:
 - Python 3+ distribution
 - PyTorch >= 0.4.0
 
-Optional:
-- Matplotlib, if you want to visualize predictions. Additionally, you need *ffmpeg* to export MP4 videos, and *imagemagick* to export GIFs.
-- MATLAB, if you want to experiment with HumanEva-I (you need this to convert the dataset).
-
 ## License
 This work is licensed under CC BY-NC. See LICENSE for details. Third-party datasets are subject to their respective licenses.
 If you use our code/models in your research, please cite our paper:
