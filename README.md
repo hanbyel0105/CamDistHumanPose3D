@@ -24,3 +24,6 @@ If you use our code/models in your research, please cite our paper:
     pages     = {11169-11178}
 }
 ```
+
+## Acknowledgement
+Part of our code is borrowed from [VideoPose3D](https://github.com/facebookresearch/VideoPose3D). We thank to the authors for releasing codes.
