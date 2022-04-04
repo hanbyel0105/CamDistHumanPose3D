@@ -28,4 +28,4 @@ If you use our code/models in your research, please cite our paper:
 ```
 
 ## Acknowledgement
-Part of our code is borrowed from [VideoPose3D](https://github.com/facebookresearch/VideoPose3D). We thank to the authors for releasing codes and please refer to their project page for further information.
+Part of our code is borrowed from [VideoPose3D](https://github.com/facebookresearch/VideoPose3D). Please refer to their project page for further information.
