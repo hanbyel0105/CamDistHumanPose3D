@@ -1,6 +1,6 @@
 # Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning
 
-**This is the official implementation of the approach described in the paper:**
+**This is the official PyTorch implementation of the approach described in the following paper:**
 > [Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning](https://arxiv.org/abs/2111.15056?context=cs)\
 > [Hanbyel Cho](https://scholar.google.com/citations?user=VvNXbu8AAAAJ&hl=ko), [Yooshin Cho](https://scholar.google.com/citations?hl=ko&user=V3oL9esAAAAJ), Jaemyung Yu, and [Junmo Kim](https://scholar.google.com/citations?hl=ko&user=GdQtWNQAAAAJ)\
 > IEEE International Conference on Computer Vision (ICCV), 2021
@@ -30,4 +30,5 @@ If you use our code/models in your research, please cite our paper:
 ```
 
 ## Acknowledgement
-Part of our code is borrowed from [VideoPose3D](https://github.com/facebookresearch/VideoPose3D). Please refer to their project page for further information.
+Part of our code is borrowed from [VideoPose3D](https://github.com/facebookresearch/VideoPose3D).\
+Please refer to their project page for further information.
