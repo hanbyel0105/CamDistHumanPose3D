@@ -1,4 +1,4 @@
-# Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning
+# Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning (ICCV'21)
 
 **This is the official PyTorch implementation of the approach described in the following paper:**
 > [Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning](https://arxiv.org/abs/2111.15056?context=cs)\
